@@ -1,0 +1,35 @@
+/-!
+# Phenomenology — Paper 73: The Formal Structure of Phenomenology
+
+Qualia, Manifestation, and Selector-Access Regimes.
+
+Root barrel: imports all Phenomenology modules.
+-/
+
+import Phenomenology.Ontology.TheSixPartTuple
+import Phenomenology.Ontology.PrimitiveVsInduced
+import Phenomenology.Ontology.RegimeCutDictionary
+import Phenomenology.Ontology.RegimeCutCoherence
+import Phenomenology.Ontology.MinimalTernaryClosure
+import Phenomenology.Ontology.OffLedgerInfluenceCollapse
+import Phenomenology.Ontology.CollapseTheorems
+import Phenomenology.Ontology.RivalFailures
+import Phenomenology.Manifestation.Ownership
+import Phenomenology.Manifestation.StructuredManifestation
+import Phenomenology.Manifestation.QualiaAsTypedManifestation
+import Phenomenology.Manifestation.InteriorIntegration
+import Phenomenology.Manifestation.ManifestationNonReducibility
+import Phenomenology.Manifestation.LocusIrreducibility
+import Phenomenology.Manifestation.UnifiedPhenomenologySchema
+import Phenomenology.Access.SelectorAccessClasses
+import Phenomenology.Access.RestrictionRelaxation
+import Phenomenology.Access.RestrictionBounds
+import Phenomenology.Access.RegimeTransitions
+import Phenomenology.Physics.SIAM_Complexity
+import Phenomenology.Physics.SIAM_Gravity
+import Phenomenology.Physics.SIAM_Electromagnetism
+import Phenomenology.Examples.FiniteWitnesses
+import Phenomenology.Examples.RegimeCutExamples
+import Phenomenology.NonExamples.Countermodels
+import Phenomenology.NonExamples.RivalCountermodels
+import Phenomenology.Bridges.ToOSIAM
