@@ -5,7 +5,7 @@ import Phenomenology.Ontology.TheSixPartTuple
 
 **Selector-access class structure.**
 
-Paper 73 Tier A.
+Paper 74 Tier A.
 -/
 
 set_option autoImplicit false

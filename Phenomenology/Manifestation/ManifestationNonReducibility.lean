@@ -7,7 +7,7 @@ import Phenomenology.Manifestation.Ownership
 
 **Manifestation ≠ articulation. Anti-reduction.**
 
-Paper 73 §7.4 B. If manifestation reduced to articulation, locus or ownership drops out.
+Paper 74 §7.4 B. If manifestation reduced to articulation, locus or ownership drops out.
 -/
 set_option autoImplicit false
 

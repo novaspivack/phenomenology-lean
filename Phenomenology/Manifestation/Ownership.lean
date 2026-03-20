@@ -5,7 +5,7 @@ import Phenomenology.Ontology.TheSixPartTuple
 
 **Ownership relation: OwnedBy(x, L). Formal anti-homunculus.**
 
-Paper 73 §8.3. Manifestation requires locus-relative ownership.
+Paper 74 §8.3. Manifestation requires locus-relative ownership.
 -/
 set_option autoImplicit false
 

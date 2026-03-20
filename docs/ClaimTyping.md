@@ -1,4 +1,4 @@
-# Claim Typing — Paper 73
+# Claim Typing — Paper 74
 
 **Project:** phenomenology-lean  
 **Paper:** *The Formal Structure of Phenomenology: Qualia, Manifestation, and Selector-Access Regimes*  

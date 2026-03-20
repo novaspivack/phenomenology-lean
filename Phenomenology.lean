@@ -1,5 +1,5 @@
 /-!
-# Phenomenology — Paper 73: The Formal Structure of Phenomenology
+# Phenomenology — Paper 74: The Formal Structure of Phenomenology
 
 Qualia, Manifestation, and Selector-Access Regimes.
 
@@ -25,11 +25,19 @@ import Phenomenology.Access.SelectorAccessClasses
 import Phenomenology.Access.RestrictionRelaxation
 import Phenomenology.Access.RestrictionBounds
 import Phenomenology.Access.RegimeTransitions
-import Phenomenology.Physics.SIAM_Complexity
-import Phenomenology.Physics.SIAM_Gravity
-import Phenomenology.Physics.SIAM_Electromagnetism
 import Phenomenology.Examples.FiniteWitnesses
 import Phenomenology.Examples.RegimeCutExamples
 import Phenomenology.NonExamples.Countermodels
 import Phenomenology.NonExamples.RivalCountermodels
 import Phenomenology.Bridges.ToOSIAM
+-- Paper 75: Meta (uniqueness, admissibility, theory-space)
+import Phenomenology.Meta.TheorySpace
+import Phenomenology.Meta.Admissibility
+import Phenomenology.Meta.AntiGerrymander
+import Phenomenology.Meta.SelfRisk
+import Phenomenology.Meta.Equivalence
+import Phenomenology.Meta.Uniqueness
+import Phenomenology.Meta.Categoricity
+import Phenomenology.Meta.Minimality
+import Phenomenology.Meta.Elimination
+import Phenomenology.Meta.Paper74Audit

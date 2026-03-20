@@ -6,7 +6,7 @@ import Phenomenology.Ontology.CollapseTheorems
 
 **Rival-formalism exclusion: pure articulation, operational, ground, public-ledger, unrestricted-access fail.**
 
-Paper 73 §7.5. Certified countermodel theorems.
+Paper 74 §7.5. Certified countermodel theorems.
 -/
 set_option autoImplicit false
 

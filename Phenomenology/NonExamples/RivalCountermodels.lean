@@ -5,7 +5,7 @@ import Phenomenology.Ontology.RivalFailures
 
 **Certified countermodels for rival formalism classes.**
 
-Paper 73 §10. Pure articulation, operational, ground, public-ledger, unrestricted-access.
+Paper 74 §10. Pure articulation, operational, ground, public-ledger, unrestricted-access.
 -/
 set_option autoImplicit false
 

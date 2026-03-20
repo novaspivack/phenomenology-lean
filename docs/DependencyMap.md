@@ -4,7 +4,7 @@
 
 ## External Dependencies
 
-- **sentience-lean** (Paper 72, O-SIAM)
+- **sentience-lean** (Paper 73, O-SIAM)
 - **nems-lean** (foundational closure)
 - **reflexive-closure-lean**
 - **Mathlib**
@@ -35,12 +35,11 @@ Phenomenology.lean (root barrel)
 │   ├── RestrictionRelaxation → TheSixPartTuple, SelectorAccessClasses
 │   ├── RestrictionBounds → TheSixPartTuple, SelectorAccessClasses, RestrictionRelaxation
 │   └── RegimeTransitions → (as needed)
-├── Physics/ (quarantined)
 ├── Examples/
 ├── NonExamples/ → Ontology, RivalFailures
 └── Bridges/ToOSIAM → Ontology, Manifestation, Access
 ```
 
-## Physics Quarantine
+## Physics
 
-Physics modules (SIAM_Complexity, SIAM_Gravity, SIAM_Electromagnetism) are quarantined. No physics result may enter the flagship theorem spine without explicit theorem-status tagging and bridge premises.
+Physics coupling is out of scope. Any future physics-layer work would require MFRR bridge premises and explicit theorem-status tagging.

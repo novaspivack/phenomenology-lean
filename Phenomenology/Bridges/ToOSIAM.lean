@@ -3,9 +3,9 @@ import Phenomenology.Ontology.TheSixPartTuple
 /-!
 # Phenomenology.Bridges.ToOSIAM
 
-**Bridge to O-SIAM (Paper 72). Locus, articulation, selector-access typed relative to O-SIAM.**
+**Bridge to O-SIAM (Paper 73). Locus, articulation, selector-access typed relative to O-SIAM.**
 
-Paper 73 §3.5. The tuple may not float free from Paper 72.
+Paper 73 §3.5. The tuple may not float free from Paper 73.
 -/
 
 set_option autoImplicit false

@@ -1,4 +1,4 @@
-# Bridge Premises — Paper 73
+# Bridge Premises — Paper 74
 
 **Project:** phenomenology-lean  
 **Paper:** *The Formal Structure of Phenomenology: Qualia, Manifestation, and Selector-Access Regimes*  
@@ -8,13 +8,12 @@ This document explicitly states:
 
 ## O-SIAM to Formal Phenomenology
 
-- **What additional assumptions are required** to pass from O-SIAM (Paper 72 operational boundary) to formal phenomenology: locus structure, integrated record structure, adjudicative machinery, self-indexed continuity.
+- **What additional assumptions are required** to pass from O-SIAM (Paper 74 operational boundary) to formal phenomenology: locus structure, integrated record structure, adjudicative machinery, self-indexed continuity.
 - **What is not claimed** to follow from O-SIAM alone: manifestation, qualia, ownership, self-presence.
 
 ## Ontology to Physics Coupling
 
-- **What additional assumptions are required** for physics-layer coupling: MFRR bridge premises, explicit theorem-status tagging.
-- **Physics quarantine:** Physics-layer results (SIAM_Complexity, SIAM_Gravity, SIAM_Electromagnetism) are quarantined and tagged as axioms/conjectures.
+Physics coupling is out of scope for Paper 74. Any future physics-layer work would require MFRR bridge premises and explicit theorem-status tagging.
 
 ## Explicit Bridge Axioms in Code
 

@@ -6,7 +6,7 @@ import Phenomenology.Manifestation.Ownership
 
 **Qualia = typed manifestation at locus. Locus-dependence.**
 
-Paper 73 Tier B.
+Paper 74 Tier B.
 -/
 set_option autoImplicit false
 

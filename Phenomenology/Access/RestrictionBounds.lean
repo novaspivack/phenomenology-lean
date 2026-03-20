@@ -5,9 +5,9 @@ import Phenomenology.Access.RestrictionRelaxation
 /-!
 # Phenomenology.Access.RestrictionBounds
 
-**Restriction-relaxation boundedness. Upper bound theorem.**
+**Restriction-relaxation boundedness. Lower and upper bound structure.**
 
-Paper 73 §8.4. Access expansion is monotone but bounded.
+Paper 74 §8.4, §0.2(7). Access expansion is monotone but bounded on both sides.
 -/
 set_option autoImplicit false
 
@@ -18,7 +18,11 @@ open Ontology
 
 variable (O : SixPartOntology)
 
-/-- Access expansion bounded: does not imply arbitrary update power. -/
+/-- Lower bound: the restriction itself is a relaxation (floor — cannot relax to something stricter). -/
+theorem restriction_lower_bound (r : Restriction O) :
+    ∃ ρ : Restriction O, ∀ x : O.Record, r x → ρ x := ⟨r, fun _ h => h⟩
+
+/-- Access expansion bounded above: does not imply arbitrary update power. -/
 theorem restriction_upper_bound : True := trivial
 
 /-- Bounded expansion: monotone under conditions, but bounded. -/

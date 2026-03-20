@@ -6,7 +6,7 @@ import Phenomenology.Ontology.TheSixPartTuple
 
 **Off-ledger structures: determinacy-relevant → illicit; determinacy-irrelevant → semantically null.**
 
-Core anti-dualist move. Paper 73 §7.4 D.
+Core anti-dualist move. Paper 74 §7.4 D.
 -/
 
 set_option autoImplicit false

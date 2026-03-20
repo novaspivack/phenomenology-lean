@@ -1,6 +1,6 @@
 # phenomenology-lean — MANIFEST
 
-**Project:** Paper 73 — The Formal Structure of Phenomenology  
+**Project:** Paper 74 — The Formal Structure of Phenomenology  
 **Repository:** https://github.com/novaspivack/phenomenology-lean  
 **Build:** `cd ~/phenomenology-lean && lake build`  
 **Date:** March 2026
@@ -34,12 +34,12 @@
 
 ## Dependencies
 
-- sentience-lean (Paper 72)
+- sentience-lean (Paper 73)
 - nems-lean
 - reflexive-closure-lean
 - Mathlib
 
 ## Papers
 
-- Paper 73: The Formal Structure of Phenomenology (flagship)
-- Paper 74: (planned; uniqueness, categoricity)
+- Paper 74: The Formal Structure of Phenomenology (flagship)
+- Paper 75: The Uniqueness of the Phenomenology Framework

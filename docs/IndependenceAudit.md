@@ -1,4 +1,4 @@
-# Independence Audit — Paper 73
+# Independence Audit — Paper 74
 
 **Date:** March 2026
 
@@ -22,6 +22,6 @@ Audit of which results are independent vs. derived.
 
 ## Bridge Dependencies
 
-- O-SIAM (Paper 72): ToOSIAM.lean bridges locus, articulation, selector-access, ownership
+- O-SIAM (Paper 73): ToOSIAM.lean bridges locus, articulation, selector-access, ownership
 - PSC closure: OffLedgerInfluenceCollapse, RestrictionBounds
 - No circularity: ontology → manifestation → access → bridges

@@ -7,7 +7,7 @@ import Phenomenology.Manifestation.Ownership
 
 **Manifestation non-triviality; articulation ≠ manifestation.**
 
-Paper 73 §8.1. A structure is not manifest merely because it is articulated.
+Paper 74 §8.1. A structure is not manifest merely because it is articulated.
 -/
 set_option autoImplicit false
 

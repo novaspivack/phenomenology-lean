@@ -1,6 +1,6 @@
 # phenomenology-lean — ARTIFACT
 
-**Project:** Paper 73 — The Formal Structure of Phenomenology: Qualia, Manifestation, and Selector-Access Regimes  
+**Project:** Paper 74 — The Formal Structure of Phenomenology: Qualia, Manifestation, and Selector-Access Regimes  
 **Date:** March 2026
 
 ## Build
@@ -32,5 +32,5 @@ Build completes with zero `sorry`. Some bridge axioms remain (explicitly tagged)
 
 ## Companion Papers
 
-- Paper 72: sentience-lean (O-SIAM)
-- Paper 74: (planned; phenomenology-lean Meta)
+- Paper 73: sentience-lean (O-SIAM)
+- Paper 75: phenomenology-lean Meta (Uniqueness)

@@ -1,10 +1,10 @@
-# Simulation-to-Theory Correspondence — Paper 73
+# Simulation-to-Theory Correspondence — Paper 74
 
 **Date:** March 2026
 
 ## Status
 
-Paper 73 does **not** currently use DSAC (computational simulation). This file is a placeholder for when simulation support is added.
+Paper 74 does **not** currently use DSAC (computational simulation). This file is a placeholder for when simulation support is added.
 
 ## Mandatory If DSAC Used
 

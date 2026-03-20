@@ -5,7 +5,7 @@ import Mathlib
 
 **The six-part formal ontology O = (M, R, P, J, L, A).**
 
-Paper 73: Primitive components M (Medium/Ground), R (Records/Articulation), A (Manifestation).
+Paper 74: Primitive components M (Medium/Ground), R (Records/Articulation), A (Manifestation).
 Primitive structural operators: P (Process), J (Adjudication), L (Locus).
 -/
 

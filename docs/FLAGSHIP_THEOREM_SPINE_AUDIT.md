@@ -1,11 +1,11 @@
-# FLAGSHIP_THEOREM_SPINE_AUDIT — Paper 73
+# FLAGSHIP_THEOREM_SPINE_AUDIT — Paper 74
 
 ## Project: `phenomenology-lean`
 ## Paper: *The Formal Structure of Phenomenology: Qualia, Manifestation, and Selector-Access Regimes*
 ## Status: Mandatory audit; must be populated before abstract/main theorem spine are finalized
 ## Date: March 2026
 
-This file is authoritative for what Paper 73 is allowed to claim in its abstract and main theorem spine.
+This file is authoritative for what Paper 74 is allowed to claim in its abstract and main theorem spine.
 
 ## Closure Rule
 

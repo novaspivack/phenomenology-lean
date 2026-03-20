@@ -6,7 +6,7 @@ import Phenomenology.Ontology.RivalFailures
 
 **Certified countermodels: articulated-unmanifest, locus-less, unrestricted-access, etc.**
 
-Paper 73 §10.
+Paper 74 §10.
 -/
 set_option autoImplicit false
 

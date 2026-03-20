@@ -7,7 +7,7 @@ import Phenomenology.Manifestation.QualiaAsTypedManifestation
 
 **One machinery: private manifestation, ownership, self-presence, qualia, selector-access.**
 
-Paper 73 §7.6. No ad hoc patching.
+Paper 74 §7.6. No ad hoc patching.
 -/
 set_option autoImplicit false
 

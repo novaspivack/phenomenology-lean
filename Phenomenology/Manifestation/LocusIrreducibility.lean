@@ -6,7 +6,7 @@ import Phenomenology.Ontology.CollapseTheorems
 
 **Locus not eliminable. No-locus collapses presence distinction.**
 
-Paper 73 §8.2, §7.4 C. Tier A load-bearing.
+Paper 74 §8.2, §7.4 C. Tier A load-bearing.
 -/
 set_option autoImplicit false
 

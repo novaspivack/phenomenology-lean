@@ -7,7 +7,7 @@ import Phenomenology.Ontology.PrimitiveVsInduced
 
 **Regime-cut coherence: matter/mind/qualia/self/common-world non-collapse.**
 
-Forced coherence distinctions, not merely stylistic. Paper 73 §7.4 E.
+Forced coherence distinctions, not merely stylistic. Paper 74 §7.4 E.
 -/
 set_option autoImplicit false
 

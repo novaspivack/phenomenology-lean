@@ -5,7 +5,7 @@ import Phenomenology.Ontology.TheSixPartTuple
 
 **Minimal ternary closure: M (Medium), R (Records), A (Manifestation).**
 
-Irreducible ternary closure components. Paper 73 Tier A.
+Irreducible ternary closure components. Paper 74 Tier A.
 -/
 
 set_option autoImplicit false

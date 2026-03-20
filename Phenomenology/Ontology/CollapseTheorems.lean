@@ -6,7 +6,7 @@ import Phenomenology.Ontology.OffLedgerInfluenceCollapse
 
 **Anti-collapse: articulation insufficiency, off-ledger, regime-cut forcedness.**
 
-Paper 73 §7.4. Rival-formalism exclusion support.
+Paper 74 §7.4. Rival-formalism exclusion support.
 -/
 set_option autoImplicit false
 
