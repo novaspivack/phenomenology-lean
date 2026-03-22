@@ -1,5 +1,11 @@
 # phenomenology-lean — MANIFEST
 
+**Toolchain:** `leanprover/lean4:v4.29.0-rc3`  
+**Mathlib:** v4.29.0-rc3 (via `lakefile.lean`)  
+**Build:** `lake build` from this directory  
+**Root import:** `Phenomenology.lean`  
+**Last verified:** 2026-03-22 — matches `lean-toolchain` and Mathlib pin.
+
 **Project:** Paper 74 — The Formal Structure of Phenomenology  
 **Repository:** https://github.com/novaspivack/phenomenology-lean  
 **Build:** `cd ~/phenomenology-lean && lake build`  
