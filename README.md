@@ -39,3 +39,6 @@ Always build from the real path (`~/phenomenology-lean`), never from a long syml
 - nems-lean
 - reflexive-closure-lean
 - Mathlib
+<!-- NOVA_ZPO_ZENODO_SOFTWARE_BEGIN -->
+**Archival software (Zenodo):** https://doi.org/10.5281/zenodo.19429243
+<!-- NOVA_ZPO_ZENODO_SOFTWARE_END -->
