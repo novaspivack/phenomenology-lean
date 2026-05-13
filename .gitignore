@@ -5,3 +5,5 @@
 
 # Local scripts
 scripts/local/
+.DS_Store
+**/.DS_Store
