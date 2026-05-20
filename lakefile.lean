@@ -6,10 +6,12 @@ package «phenomenology-lean» where
   -- Qualia, Manifestation, and Selector-Access Regimes
 
 -- Sentience (Paper 73) — O-SIAM operational boundary
-require «sentience-lean» from "../sentience-lean"
+require «sentience-lean» from git
+  "https://github.com/novaspivack/sentience-lean.git" @ "main"
 
 -- Reflexive closure (Papers 61–63) — Alpha, GhostCollapse, LedgerGround for necessary-ground bridge
-require «reflexive-closure-lean» from "../reflexive-closure-lean"
+require «reflexive-closure-lean» from git
+  "https://github.com/novaspivack/reflexive-closure-lean.git" @ "main"
 
 require mathlib from git
   "https://github.com/leanprover-community/mathlib4.git" @ "v4.29.1"
