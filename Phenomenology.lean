@@ -1,10 +1,6 @@
-/-!
-# Phenomenology — Paper 74: The Formal Structure of Phenomenology
-
-Qualia, Manifestation, and Selector-Access Regimes.
-
-Root barrel: imports all Phenomenology modules.
--/
+-- Phenomenology — Paper 74: The Formal Structure of Phenomenology
+-- Qualia, Manifestation, and Selector-Access Regimes.
+-- Root barrel: imports all Phenomenology modules.
 
 import Phenomenology.Ontology.TheSixPartTuple
 import Phenomenology.Ontology.PrimitiveVsInduced

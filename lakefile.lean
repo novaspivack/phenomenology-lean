@@ -18,4 +18,4 @@ require mathlib from git
 
 @[default_target]
 lean_lib «Phenomenology» where
-  globs := #[.submodules `Phenomenology]
+  roots := #[`Phenomenology]
